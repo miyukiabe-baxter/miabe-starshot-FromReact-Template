@@ -5,6 +5,12 @@
   "routes": [
     {
       "route": "/addingFromMainIcon"
+    },
+    {
+      "route": "/addingFromCommand",
+      "headers": {
+        "name1": "value1"
+      }
     }
   ]
 }
