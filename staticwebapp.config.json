@@ -4,7 +4,7 @@
   },
   "routes": [
     {
-      "route": "/addingFromMainIcon"
+      "route": "/addingFromMainIcon-update"
     },
     {
       "route": "/addingFromCommand",
